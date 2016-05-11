@@ -1,6 +1,6 @@
 # [DevOps P0] Improvement Plan: Submission Template
 
-Use this template to generate your own submission for the project. The template is already in Markdown and has space for you to provide your answers. Read the [Project Description](P0_Improvement_Plan.md) and the [Sample Submission](P0_Sample_Submission.md) for details and suggestions about how to complete your answers. Delete this paragraph before submitting your project. 
+Use this template to generate your own submission for the project. The template is already in Markdown and has space for you to provide your answers. Read the [Project Description](https://github.com/udacity/Project-Descriptions-for-Review/blob/master/DevOps/P0/P0_Fictional_Company.md) and the [Sample Submission](https://github.com/udacity/Project-Descriptions-for-Review/blob/9d7b8dd2c0d6d23fe5ecf768351b68184835a443/DevOps/P0/P0_Sample_Submission.md) for details and suggestions about how to complete your answers. Delete this paragraph before submitting your project. 
 
 ## Organization Snapshot
 
