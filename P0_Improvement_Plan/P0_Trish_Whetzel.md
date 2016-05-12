@@ -23,21 +23,21 @@ Twisted Threads is an on demand T-shirt company. The company is 10 years old and
 
 **April 22, 2016** 
 
-*External customer: Users of the online store that want to purchase customized T-shirts
-*Internal customer: Company product team that requests new features
-*Internal customer: Company users of the separate inventory systems for each physical store and warehouse
+* External customer: Users of the online store that want to purchase customized T-shirts
+* Internal customer: Company product team that requests new features
+* Internal customer: Company users of the separate inventory systems for each physical store and warehouse
 
 #### What is the current flow of software development and delivery in your team? List the main steps and whether they are manual or automated. 
 
 **April 22, 2016** 
 
-*Bugs and Feature requests are reviewed weekly and new items are prioritized whether they need to be in this months release or a future release (manual)
-*Code gets written based on priorities, although sometimes a developer works on their own project that is not in the tracker (manual)
-*Code is checked into the repository and the tracker item status is updated to Ready for QA (manual)
-*Code updates are reviewed weekly and the tracker item status is either updated to Ready for Release or In Progress and turned back to the developer for more work (manual)
-*A few days prior to release, a code freeze occurs and only fixes for current items scheduled for the release are worked on (manual)
-*New releases are pushed on Tuesday (manual)
-*If there are enough features to announce to customers, the announcement is sent out on Thursday after allowing the new release to run in production for a few days to catch any major issues (manual)
+* Bugs and Feature requests are reviewed weekly and new items are prioritized whether they need to be in this months release or a future release (manual)
+* Code gets written based on priorities, although sometimes a developer works on their own project that is not in the tracker (manual)
+* Code is checked into the repository and the tracker item status is updated to Ready for QA (manual)
+* Code updates are reviewed weekly and the tracker item status is either updated to Ready for Release or In Progress and turned back to the developer for more work (manual)
+* A few days prior to release, a code freeze occurs and only fixes for current items scheduled for the release are worked on (manual)
+* New releases are pushed on Tuesday (manual)
+* If there are enough features to announce to customers, the announcement is sent out on Thursday after allowing the new release to run in production for a few days to catch any major issues (manual)
 
 #### What are all the teams or people that are involved in a product release, from start to finish? 
 
