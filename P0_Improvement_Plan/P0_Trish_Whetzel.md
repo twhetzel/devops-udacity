@@ -8,10 +8,7 @@ Use this template to generate your own submission for the project. The template 
 
 **April 22, 2016** 
 
-Twisted Threads is an on demand T-shirt company. The company is 10 years old and currently has over 200 employees. The company properties include one warehouse, serveral brick-and-mortar stores, and an e-commerce site. Our team is involved in software development for the company. 
-
-TBD - What is the role of your team or organizational unit within the company? 
-TBD - How many employees are in your organizational unit or team?
+Twisted Threads is an on demand T-shirt company. The company is 10 years old and currently has over 200 employees. The company properties include one warehouse, serveral brick-and-mortar stores, and an e-commerce site. Our team is involved in software development for the company. The IT department has 25 people. My team of 5 is part of the IT department and responsible for running the e-commerce site.
 
 #### What is the core function of your team? What is the core function of your company or organizational unit? Is the core function of your team well aligned with the function of the larger organizational unit or the company as a whole?
 
