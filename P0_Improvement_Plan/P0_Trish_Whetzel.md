@@ -43,7 +43,12 @@ Twisted Threads is an on demand T-shirt company. The company is 10 years old and
 
 **April 22, 2016** 
 
-The general teams are product, developers, and operations. However the exact flow is not yet described.
+* Project manager
+* Marketing
+* Design
+* Developers 
+* QA
+* Ops
 
 #### How is communication handled in your organization? 
 
