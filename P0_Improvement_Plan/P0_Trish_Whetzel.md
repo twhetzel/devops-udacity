@@ -43,18 +43,19 @@ Twisted Threads is an on demand T-shirt company. The company is 10 years old and
 
 **April 22, 2016** 
 
-* Project manager
-* Marketing
-* Design
-* Developers 
-* QA
-* Ops
+* Project manager: 1 manager who does some coding, analysis of logs.
+* Developers: 1 front end, 1 back end, and 1 full stack developer.
+* QA: 1 dedicated person.
+* Marketing/Sales
+* Design: Same team handles design for both website and shirts
+* Warehouse team: Needs daily report of what to ship where.
+* Customer service: Needs to be able to look up sales if a customer calls or emails with problems around an online order.
 
 #### How is communication handled in your organization? 
 
 **April 22, 2016** 
 
-We have weekly sit down meetings (Developers + PM + QA + Ops) and a week prior to release there are daily standup meetings (Developers + PM) for status check-ins. 
+We have weekly sit down meetings (Developers + PM + QA) and a week prior to release there are daily standup meetings (Developers + PM) for status check-ins. 
 
 ## Quantitative Ratings
 
@@ -117,4 +118,4 @@ Rating: 6. The software is easy to test, but most of the process is manual.
 
 **April 22, 2016** 
 
-Rating: 7 
+Rating: 8
