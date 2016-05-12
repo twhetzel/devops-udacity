@@ -54,7 +54,7 @@ Twisted Threads is an on demand T-shirt company. The company is 10 years old and
 
 **April 22, 2016** 
 
-Not currently described for the fictional company. 
+We have weekly sit down meetings (Developers + PM + QA + Ops) and a week prior to release there are daily standup meetings (Developers + PM) for status check-ins. 
 
 ## Quantitative Ratings
 
