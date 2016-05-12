@@ -34,7 +34,7 @@ Twisted Threads is an on demand T-shirt company. The company is 10 years old and
 * Bugs and Feature requests are reviewed weekly and new items are prioritized whether they need to be in this months release or a future release (manual)
 * Code gets written based on priorities, although sometimes a developer works on their own project that is not in the tracker (manual)
 * Code is checked into the repository and the tracker item status is updated to Ready for QA (manual)
-* Code updates are reviewed weekly and the tracker item status is either updated to Ready for Release or In Progress and turned back to the developer for more work (manual)
+* Code updates are reviewed weekly and the tracker item status is either updated to Ready for Release or In Progress and turned back to the developer for more work (manual). Some data quality checks are verfied programmaticaly (automated).
 * A few days prior to release, a code freeze occurs and only fixes for current items scheduled for the release are worked on (manual)
 * New releases are pushed on Tuesday (manual)
 * If there are enough features to announce to customers, the announcement is sent out on Thursday after allowing the new release to run in production for a few days to catch any major issues (manual)
@@ -68,37 +68,38 @@ Rating: 6
 
 **April 22, 2016** 
 
-Rating: TBD
+Rating: 7. Generally deployments go smoothly. We did have a data quality issue, but have since implemented an automated check that is run before and after deployment.
 
 #### Do you have planned downtime for system upgrades or maintenance? 
 
 **April 22, 2016** 
 
-Rating: TBD
+Yes, it is generally as needed based on feedback from Ops.
 
 #### How much time does it take to set up the environment for a new project? 
 
 **April 22, 2016** 
 
-Rating: TBD
+About 1 day if it is not a release week or the sysadmin is not busy with other projects.
 
 #### How often do you deploy to production? 
 
 **April 22, 2016** 
 
-Rating: TBD 
+* Currently: 1/month
+* Patch releases occur throughout the month as needed to fix any severe issues resulting from the release, usually 1 or 2. 
 
 #### How long does it take to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"? 
 
 **April 22, 2016** 
 
-Rating: TBD
+1-3 weeks
 
 #### How easy is it to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"? (Scale: 1-10, 10 is best)
 
 **April 22, 2016** 
 
-Rating: TBD
+Rating: 8. While the releases occur monthly vs. weekly, pushing the release to production is generally smooth. 
 
 #### How would you rate the quality of your software? (Scale: 1-10, 10 is best)
 
@@ -110,7 +111,7 @@ Rating: 8
 
 **April 22, 2016** 
 
-Rating: TBD
+Rating: 6. The software is easy to test, but most of the process is manual.
 
 #### How satisfied are your customers? (Scale: 1-10, 10 is best) 
 
