@@ -31,7 +31,13 @@ Twisted Threads is an on demand T-shirt company. The company is 10 years old and
 
 **April 22, 2016** 
 
-The flow of software development is not currently described for the fictional company. It is mentioned that the *product team* wants more features but the rollout of new features is painfully slow, the *developers* are unhappy because deployment of new features takes ages, and *operations* does not provide new servers.  
+*Bugs and Feature requests are reviewed weekly and new items are prioritized whether they need to be in this months release or a future release (manual)
+*Code gets written based on priorities, although sometimes a developer works on their own project that is not in the tracker (manual)
+*Code is checked into the repository and the tracker item status is updated to Ready for QA (manual)
+*Code updates are reviewed weekly and the tracker item status is either updated to Ready for Release or In Progress and turned back to the developer for more work (manual)
+*A few days prior to release, a code freeze occurs and only fixes for current items scheduled for the release are worked on (manual)
+*New releases are pushed on Tuesday (manual)
+*If there are enough features to announce to customers, the announcement is sent out on Thursday after allowing the new release to run in production for a few days to catch any major issues (manual)
 
 #### What are all the teams or people that are involved in a product release, from start to finish? 
 
